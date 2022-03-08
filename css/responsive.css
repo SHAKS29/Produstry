@@ -1,0 +1,137 @@
+@media (max-width: 767.90px){
+    #MyNav ul li{
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+        margin: 10px 0;
+        display: inline-block;
+        width: 25%;
+    
+    }
+    #MyNav ul li a{
+        display: inline-block;
+
+    }
+    #MyNav ul{
+        margin-top: 20px;
+        text-align: center;
+
+    }
+    .hdr_right p {
+        text-align: center;
+    }
+
+    .hdr_middle{
+        clip-path: none;
+        background: #353535;
+    }
+    #top_header .text-center{
+        background: #353535;
+    }
+    .hdr_left{
+        padding: 10px 0;
+    }
+    .hdr_left ul {
+        text-align: center;
+    }
+    .banner_items .banner_content{
+        width: 100%;
+    }
+    .main_btn a{
+        padding: 10px 10px;
+    font-size: 12px;
+    margin-right: 20px;
+    }
+    .banner_content p{
+        font-size: 12px;
+    line-height: 12px;
+    padding: 15px 10px 20px 0;
+    }
+    #banner{
+        height: 500px;
+    }
+    .banner_content h1 {
+        margin-left: 50px;
+    }
+    .banner_content p {
+        margin-top: 50px;
+    }
+    #slide_button a {
+        font-size: 30px;
+        line-height: 30px;
+        text-align: center;
+    }
+    .left-arrow {
+        height: 30px;
+        width: 40px;
+    }
+    .right-arrow {
+        height: 30px;
+        width: 40px;
+        
+    }
+    .about_heading h2 {
+        margin-left: 15px;
+    }
+    .left_arrow {
+        left: 5%;
+    }
+    .custom_nav .navbar-toggler{
+        border: 1px solid #ffca36;
+        color: #ffca36;
+        border-radius: none;
+        -webkit-border-radius: none;
+        -moz-border-radius: none;
+        -ms-border-radius: none;
+        -o-border-radius: none;
+}
+    .custom_nav .navbar-toggler:focus {
+        
+        box-shadow: none;
+    }
+
+}
+
+@media (min-width:992px) and (max-width:1199.90px){
+
+}
+
+@media (min-width:768px) and (max-width:991.90px){
+    
+}
+
+@media (min-width:576px) and (max-width:767.90px){
+    
+}
+
+@media (max-width:575.90px){
+    #about_tab li button {
+        padding: 8px;
+    }
+    .about_right .tab-content p {
+        margin-left: 10px;
+    }
+    .about_btn .button {
+        margin-left: 10px;
+    }
+    .port_overlay {
+        width: 92%;
+    }
+    .brand_image {
+        width: 200px;
+        margin-left: 40px;
+    }
+    .team_member {
+        margin-right: 20px;
+    }
+    .about_right_aboutus p {
+        margin-left: 10px;
+    }
+    .mission_left ul li span {
+        line-height: 30px;
+    }
+
+}
